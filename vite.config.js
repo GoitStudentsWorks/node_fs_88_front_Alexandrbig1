@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/task-pro/",
+  base: "/node_fs_88_front_Alexandrbig1/",
   plugins: [react()],
   server: {
     port: 3000,
